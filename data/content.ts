@@ -8,9 +8,9 @@ export interface Stat {
 
 export const stats: Stat[] = [
   { value: 350, suffix: "+", label: "Vehicles in our fleet" },
-  { value: 85, prefix: "₹", suffix: " Cr", label: "Annual revenue" },
   { value: 100, suffix: "%", label: "GPS-tracked fleet" },
   { value: 20, suffix: "+", label: "Enterprise customers" },
+  { value: 18, suffix: "+", label: "Years on the road" },
 ];
 
 /** Real customers from the company deck (shown as styled names; logos can be swapped in later). */
