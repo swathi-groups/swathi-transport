@@ -6,7 +6,6 @@ import HowItWorks from "@/components/sections/HowItWorks";
 import CoverageMap from "@/components/sections/CoverageMap";
 import Technology from "@/components/sections/Technology";
 import Strengths from "@/components/sections/Strengths";
-import RevenueGrowth from "@/components/sections/RevenueGrowth";
 import CoreValues from "@/components/sections/CoreValues";
 import Customers from "@/components/sections/Customers";
 import QuoteForm from "@/components/sections/QuoteForm";
@@ -20,7 +19,6 @@ export default function Home() {
       <main>
         <Hero />
         <Services />
-        <RevenueGrowth />
         <PTLDivision />
         <HowItWorks />
         <CoverageMap />
